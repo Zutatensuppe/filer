@@ -1,0 +1,13 @@
+{
+  "httpServer": {
+    "port": 3000,
+    "host": "localhost"
+  },
+  "upload": {
+    "directory": "uploads"
+  },
+  "auth": {
+    "enabled": false,
+    "secretToken": "YOUR_SECRET_TOKEN"
+  }
+}
